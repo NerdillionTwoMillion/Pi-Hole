@@ -1,0 +1,2 @@
+telemetry.malwarebytes.com
+keystone.mwbsys.com
