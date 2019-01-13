@@ -1,3 +1,4 @@
 lm.licenses.adobe.com
 uds.licenses.adobe.com
 genuine.adobe.com
+resources.licenses.adobe.com
