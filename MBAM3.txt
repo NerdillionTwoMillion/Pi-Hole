@@ -1,2 +1,5 @@
 telemetry.malwarebytes.com
 keystone.mwbsys.com
+malwarebytes.invisionmanaged.net
+sirius.mwbsys.com
+hubble.mb-cosmos.com
